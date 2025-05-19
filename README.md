@@ -25,4 +25,4 @@ Esses projetos me ajudaram a melhorar minha lógica de programação, meu entend
 ![Captura de Tela (79)](https://github.com/user-attachments/assets/d13c7b52-4019-4cea-810c-0e60b368db14)
 ![Captura de Tela (80)](https://github.com/user-attachments/assets/54417e5f-0668-44a1-b2f4-1b7f1121c9fc)
 ![Captura de Tela (81)](https://github.com/user-attachments/assets/d02f85d3-a99e-4fb0-86e2-8e77afaf9d62)
-![Captura de Tela (82)](https://github.com/user-attachments/assets/9b32f92e-9079-4041-86c7-71c6cb8becfa)
+
